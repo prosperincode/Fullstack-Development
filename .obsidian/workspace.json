@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
+                "file": "raw/How Senior Developers Actually Code With AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How React Native Builds Actually Work (APK, AAB, IPA, APP)"
+              "title": "How Senior Developers Actually Code With AI"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
+                "file": "raw/How Senior Developers Actually Code With AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How React Native Builds Actually Work (APK, AAB, IPA, APP)"
+              "title": "Backlinks for How Senior Developers Actually Code With AI"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
+                "file": "raw/How Senior Developers Actually Code With AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How React Native Builds Actually Work (APK, AAB, IPA, APP)"
+              "title": "Outgoing links from How Senior Developers Actually Code With AI"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
+                "file": "raw/How Senior Developers Actually Code With AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How React Native Builds Actually Work (APK, AAB, IPA, APP)"
+              "title": "Outline of How Senior Developers Actually Code With AI"
             }
           }
         ]
@@ -187,6 +187,7 @@
   "active": "766082933f471f5f",
   "lastOpenFiles": [
     "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
+    "raw/How Senior Developers Actually Code With AI.md",
     "wiki/synthesis.md",
     "wiki/overview.md",
     "wiki/log.md",
