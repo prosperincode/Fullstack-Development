@@ -186,6 +186,11 @@
   },
   "active": "766082933f471f5f",
   "lastOpenFiles": [
+    "wiki/Product Design/Retention",
+    "wiki/Product Design/Ethics",
+    "wiki/Product Design",
+    "wiki/Mobile Development/React Native/Best Practices",
+    "wiki/Mobile Development/React Native/Styling",
     "raw/Top 6 React Native Tips to Survive 2026.md",
     "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
     "raw/How To Scientifically Design Addictive Apps.md",
@@ -209,10 +214,6 @@
     "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
     "wiki/synthesis.md",
     "wiki/overview.md",
-    "AGENTS.md",
-    "wiki/comparisons",
-    "wiki/concepts",
-    "wiki/entities",
-    "wiki"
+    "AGENTS.md"
   ]
 }
