@@ -11,14 +11,10 @@
             "id": "766082933f471f5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6 Expo UI Tricks That Save You Hours of Debugging"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6 Expo UI Tricks That Save You Hours of Debugging"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6 Expo UI Tricks That Save You Hours of Debugging"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6 Expo UI Tricks That Save You Hours of Debugging"
+              "title": "Outline"
             }
           }
         ]
@@ -186,13 +179,26 @@
   },
   "active": "766082933f471f5f",
   "lastOpenFiles": [
+    "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
+    "raw/processed/Top 6 React Native Tips to Survive 2026.md",
+    "raw/processed/The 3-Stage Trick Behind Every Addictive App.md",
+    "raw/processed/Stop Writing React Native Styles Like It's 2022.md",
+    "raw/processed/How To Scientifically Design Addictive Apps.md",
+    "raw/processed/6 Expo UI Tricks That Save You Hours of Debugging.md",
+    "wiki/Product Design/Retention/Habit Loops and Reward Systems.md",
+    "wiki/Mobile Development/React Native/Best Practices/React Native App Structure and Core Components.md",
+    "wiki/Mobile Development/React Native/Styling/Modern React Native Style Props.md",
+    "wiki/sources/6 Expo UI Tricks That Save You Hours of Debugging.md",
+    "wiki/sources/The 3-Stage Trick Behind Every Addictive App.md",
+    "wiki/sources/How To Scientifically Design Addictive Apps.md",
+    "wiki/sources/Top 6 React Native Tips to Survive 2026.md",
+    "wiki/sources/Stop Writing React Native Styles Like It's 2022.md",
     "wiki/Product Design/Retention",
     "wiki/Product Design/Ethics",
     "wiki/Product Design",
     "wiki/Mobile Development/React Native/Best Practices",
     "wiki/Mobile Development/React Native/Styling",
     "raw/Top 6 React Native Tips to Survive 2026.md",
-    "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
     "raw/How To Scientifically Design Addictive Apps.md",
     "raw/The 3-Stage Trick Behind Every Addictive App.md",
     "raw/Stop Writing React Native Styles Like It's 2022.md",
@@ -204,16 +210,10 @@
     "wiki/AI-Assisted Development/AI Coding Workflow.md",
     "raw/How Senior Developers Actually Code With AI.md",
     "raw/processed/How Senior Developers Actually Code With AI.md",
-    "raw/processed/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
     "raw/processed",
     "wiki/AI-Assisted Development",
     "wiki/Mobile Development/React Native/Expo",
     "wiki/Mobile Development/React Native",
-    "wiki/Mobile Development",
-    "wiki/sources",
-    "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
-    "wiki/synthesis.md",
-    "wiki/overview.md",
-    "AGENTS.md"
+    "wiki/Mobile Development"
   ]
 }
