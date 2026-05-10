@@ -11,10 +11,14 @@
             "id": "766082933f471f5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "raw/I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality"
             }
           }
         ]
@@ -179,6 +186,7 @@
   },
   "active": "766082933f471f5f",
   "lastOpenFiles": [
+    "raw/I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality.md",
     "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
     "raw/processed/Top 6 React Native Tips to Survive 2026.md",
     "raw/processed/The 3-Stage Trick Behind Every Addictive App.md",
@@ -209,7 +217,6 @@
     "wiki/Mobile Development/React Native/Build Artifacts and Release Builds.md",
     "wiki/AI-Assisted Development/AI Coding Workflow.md",
     "raw/How Senior Developers Actually Code With AI.md",
-    "raw/processed/How Senior Developers Actually Code With AI.md",
     "raw/processed",
     "wiki/AI-Assisted Development",
     "wiki/Mobile Development/React Native/Expo",
