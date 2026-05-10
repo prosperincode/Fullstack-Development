@@ -184,8 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "766082933f471f5f",
+  "active": "d0399523624680df",
   "lastOpenFiles": [
+    "raw/processed",
+    "wiki/AI-Assisted Development",
+    "wiki/Mobile Development/React Native/Expo",
+    "wiki/Mobile Development/React Native",
+    "wiki/Mobile Development",
+    "wiki/sources",
     "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
     "raw/How Senior Developers Actually Code With AI.md",
     "wiki/synthesis.md",
@@ -195,7 +201,6 @@
     "AGENTS.md",
     "wiki/comparisons",
     "wiki/concepts",
-    "wiki/sources",
     "wiki/entities",
     "wiki",
     "raw"
