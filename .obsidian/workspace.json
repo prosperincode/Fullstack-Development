@@ -11,10 +11,14 @@
             "id": "766082933f471f5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Top 6 React Native Tips to Survive 2026"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Top 6 React Native Tips to Survive 2026"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Top 6 React Native Tips to Survive 2026"
             }
           },
           {
@@ -150,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/How Senior Developers Actually Code With AI.md",
+                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How Senior Developers Actually Code With AI"
+              "title": "Outline of Top 6 React Native Tips to Survive 2026"
             }
           }
         ]
@@ -178,14 +184,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0399523624680df",
+  "active": "766082933f471f5f",
   "lastOpenFiles": [
-    "raw/processed/How Senior Developers Actually Code With AI.md",
-    "raw/processed/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
-    "wiki/AI-Assisted Development/AI Coding Workflow.md",
-    "wiki/Mobile Development/React Native/Build Artifacts and Release Builds.md",
+    "raw/How To Scientifically Design Addictive Apps.md",
+    "raw/Top 6 React Native Tips to Survive 2026.md",
+    "raw/The 3-Stage Trick Behind Every Addictive App.md",
+    "raw/Stop Writing React Native Styles Like It's 2022.md",
     "wiki/sources/How Senior Developers Actually Code With AI.md",
     "wiki/sources/How React Native Builds Actually Work.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/Mobile Development/React Native/Build Artifacts and Release Builds.md",
+    "wiki/AI-Assisted Development/AI Coding Workflow.md",
+    "raw/How Senior Developers Actually Code With AI.md",
+    "raw/processed/How Senior Developers Actually Code With AI.md",
+    "raw/processed/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
     "raw/processed",
     "wiki/AI-Assisted Development",
     "wiki/Mobile Development/React Native/Expo",
@@ -193,11 +206,8 @@
     "wiki/Mobile Development",
     "wiki/sources",
     "raw/How React Native Builds Actually Work (APK, AAB, IPA, APP).md",
-    "raw/How Senior Developers Actually Code With AI.md",
     "wiki/synthesis.md",
     "wiki/overview.md",
-    "wiki/log.md",
-    "wiki/index.md",
     "AGENTS.md",
     "wiki/comparisons",
     "wiki/concepts",
