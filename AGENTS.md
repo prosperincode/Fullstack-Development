@@ -12,19 +12,14 @@ This vault follows the LLM Wiki pattern from Andrej Karpathy's guide: raw source
 
 - `wiki/index.md` is the content-oriented catalog. Read it first when answering questions or deciding what pages to update.
 - `wiki/log.md` is the append-only chronological record of ingests, queries, and lint passes.
-- `wiki/sources/` contains source summary pages.
-- `wiki/entities/` contains entity pages.
-- `wiki/concepts/` contains concept pages.
-- `wiki/comparisons/` contains comparison or synthesis pages created from queries.
-- `wiki/overview.md` is the high-level overview of the wiki.
-- `wiki/synthesis.md` is the evolving synthesis across sources and questions.
+- Other wiki pages are created only when sources or durable query results require them.
 
 ## Ingest Workflow
 
 1. Read the new source from `raw/`.
 2. Discuss key takeaways with the user when emphasis or interpretation is unclear.
-3. Write or update the relevant source summary in `wiki/sources/`.
-4. Update relevant entity, concept, overview, synthesis, or comparison pages.
+3. Write or update the relevant source summary page.
+4. Update relevant wiki pages.
 5. Update `wiki/index.md`.
 6. Append an entry to `wiki/log.md` using `## [YYYY-MM-DD] ingest | Source Title`.
 
