@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
+                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top 6 React Native Tips to Survive 2026"
+              "title": "6 Expo UI Tricks That Save You Hours of Debugging"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
+                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Top 6 React Native Tips to Survive 2026"
+              "title": "Backlinks for 6 Expo UI Tricks That Save You Hours of Debugging"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
+                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Top 6 React Native Tips to Survive 2026"
+              "title": "Outgoing links from 6 Expo UI Tricks That Save You Hours of Debugging"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/Top 6 React Native Tips to Survive 2026.md",
+                "file": "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Top 6 React Native Tips to Survive 2026"
+              "title": "Outline of 6 Expo UI Tricks That Save You Hours of Debugging"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "766082933f471f5f",
   "lastOpenFiles": [
-    "raw/How To Scientifically Design Addictive Apps.md",
     "raw/Top 6 React Native Tips to Survive 2026.md",
+    "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
+    "raw/How To Scientifically Design Addictive Apps.md",
     "raw/The 3-Stage Trick Behind Every Addictive App.md",
     "raw/Stop Writing React Native Styles Like It's 2022.md",
     "wiki/sources/How Senior Developers Actually Code With AI.md",
