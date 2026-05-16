@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality.md",
+                "file": "wiki/sources/Top 6 React Native Tips to Survive 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality"
+              "title": "Top 6 React Native Tips to Survive 2026"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "766082933f471f5f",
   "lastOpenFiles": [
+    "wiki/Mobile Development/React Native/Best Practices/React Native App Structure and Core Components.md",
+    "wiki/Mobile Development/React Native/Styling/Modern React Native Style Props.md",
+    "wiki/Mobile Development/React Native/Build Artifacts and Release Builds.md",
     "raw/I have a looping video I would like to include in my react native app, it's around 2.5mb, how can I reduce it size without sacrificing quality.md",
     "raw/6 Expo UI Tricks That Save You Hours of Debugging.md",
     "raw/processed/Top 6 React Native Tips to Survive 2026.md",
@@ -194,8 +197,6 @@
     "raw/processed/How To Scientifically Design Addictive Apps.md",
     "raw/processed/6 Expo UI Tricks That Save You Hours of Debugging.md",
     "wiki/Product Design/Retention/Habit Loops and Reward Systems.md",
-    "wiki/Mobile Development/React Native/Best Practices/React Native App Structure and Core Components.md",
-    "wiki/Mobile Development/React Native/Styling/Modern React Native Style Props.md",
     "wiki/sources/6 Expo UI Tricks That Save You Hours of Debugging.md",
     "wiki/sources/The 3-Stage Trick Behind Every Addictive App.md",
     "wiki/sources/How To Scientifically Design Addictive Apps.md",
@@ -214,7 +215,6 @@
     "wiki/sources/How React Native Builds Actually Work.md",
     "wiki/log.md",
     "wiki/index.md",
-    "wiki/Mobile Development/React Native/Build Artifacts and Release Builds.md",
     "wiki/AI-Assisted Development/AI Coding Workflow.md",
     "raw/How Senior Developers Actually Code With AI.md",
     "raw/processed",
