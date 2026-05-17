@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/Top 6 React Native Tips to Survive 2026.md",
+                "file": "wiki/Mobile Development/React Native/Best Practices/React Native App Structure and Core Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top 6 React Native Tips to Survive 2026"
+              "title": "React Native App Structure and Core Components"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "766082933f471f5f",
   "lastOpenFiles": [
+    "wiki/sources/Top 6 React Native Tips to Survive 2026.md",
     "wiki/Mobile Development/React Native/Best Practices/React Native App Structure and Core Components.md",
     "wiki/Mobile Development/React Native/Styling/Modern React Native Style Props.md",
     "wiki/Mobile Development/React Native/Build Artifacts and Release Builds.md",
@@ -200,7 +201,6 @@
     "wiki/sources/6 Expo UI Tricks That Save You Hours of Debugging.md",
     "wiki/sources/The 3-Stage Trick Behind Every Addictive App.md",
     "wiki/sources/How To Scientifically Design Addictive Apps.md",
-    "wiki/sources/Top 6 React Native Tips to Survive 2026.md",
     "wiki/sources/Stop Writing React Native Styles Like It's 2022.md",
     "wiki/Product Design/Retention",
     "wiki/Product Design/Ethics",

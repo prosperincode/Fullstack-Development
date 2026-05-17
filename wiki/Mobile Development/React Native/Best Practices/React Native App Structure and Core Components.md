@@ -4,14 +4,14 @@ Small component choices and route organization decisions compound quickly in Rea
 
 ## Recommendations
 
-| Area | Prefer | Avoid when possible | Reason |
-|---|---|---|---|
-| Touch handling | `Pressable` | `TouchableOpacity` for new components | `Pressable` supports richer press states and events. |
-| Platform differences | `.ios.tsx`, `.android.tsx`, `.native.tsx`, `.web.tsx` files | Large inline `Platform.OS` branches | Keeps platform-specific code isolated and easier to test. |
-| Large lists | `FlatList` or another virtualized list | `ScrollView` with many API-driven rows | `ScrollView` renders all children at once. |
-| Static short content | `ScrollView` | Over-engineered list setup | Simple static screens do not need virtualization. |
-| Expo Router routes | Thin route files that export screens | Heavy data fetching and UI logic directly inside `app/` | Makes navigation refactors easier. |
-| Safe areas | `react-native-safe-area-context`; iOS scroll inset behavior where appropriate | Core `SafeAreaView` as a default | Core `SafeAreaView` is deprecated. |
+| Area                 | Prefer                                                                        | Avoid when possible                                     | Reason                                                    |
+| -------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| Touch handling       | `Pressable`                                                                   | `TouchableOpacity` for new components                   | `Pressable` supports richer press states and events.      |
+| Platform differences | `.ios.tsx`, `.android.tsx`, `.native.tsx`, `.web.tsx` files                   | Large inline `Platform.OS` branches                     | Keeps platform-specific code isolated and easier to test. |
+| Large lists          | `FlatList` or another virtualized list                                        | `ScrollView` with many API-driven rows                  | `ScrollView` renders all children at once.                |
+| Static short content | `ScrollView`                                                                  | Over-engineered list setup                              | Simple static screens do not need virtualization.         |
+| Expo Router routes   | Thin route files that export screens                                          | Heavy data fetching and UI logic directly inside `app/` | Makes navigation refactors easier.                        |
+| Safe areas           | `react-native-safe-area-context`; iOS scroll inset behavior where appropriate | Core `SafeAreaView` as a default                        | Core `SafeAreaView` is deprecated.                        |
 
 ## Pressable Example
 
